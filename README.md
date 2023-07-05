@@ -37,8 +37,3 @@ The notebook uses two datasets:
 
 The notebook utilizes libraries such as pandas, numpy, matplotlib, and seaborn for data manipulation, analysis, and visualization.
 
-Feel free to explore the notebook and analyze the relationship between various factors and the COVID-19 infection rate in different countries.
-
-For any questions or suggestions, please feel free to reach out.
-
-Enjoy the analysis!
